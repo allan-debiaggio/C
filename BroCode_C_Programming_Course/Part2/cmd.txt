@@ -1,0 +1,7 @@
+How to compile and run a program with cmd :
+
+Make sure you have the compiler with gcc --version
+
+Go to the directory of the file you want to compile.
+gcc <filename.c>
+gcc -o (for output) <outputted file name.exe> <source file.c>
